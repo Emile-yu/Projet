@@ -4,6 +4,7 @@
 #include<unistd.h>
 #include<sys/types.h>
 #include<signal.h>
+/*master change*/
 int *pid;
 void sig_hand(int sig)
 {
