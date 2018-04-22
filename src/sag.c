@@ -4,7 +4,7 @@
 #include<unistd.h>
 #include<sys/types.h>
 #include<signal.h>
-/*slave change*/
+/*slave has been changed*/
 int *pid;
 void sig_hand(int sig)
 {
